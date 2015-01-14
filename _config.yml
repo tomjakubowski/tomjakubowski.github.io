@@ -8,11 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : crystae
-author :
-  name : Tom Jakubowski
-  email : tom@crystae.net
-  github : tomjakubowski
+title: crystae
+author:
+  name: Tom Jakubowski
+  email: tom@crystae.net
+  github: tomjakubowski
+
+markdown: redcarpet
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

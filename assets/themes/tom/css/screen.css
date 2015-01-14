@@ -173,6 +173,8 @@ ul.posts {
   }
 
     #post pre code {
+      display: block;
+      padding: .4em inherit;
       border: none;
     }
 
