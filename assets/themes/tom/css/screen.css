@@ -197,3 +197,10 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+blockquote {
+    padding: 0em 1em;
+    border-left: 4px solid #ddd;
+    margin: 1em 0 1em 2em;
+    font-style: italic;
+}
