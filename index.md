@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 
 I'm Tom Jakubowski and this is my home on the World Wide Web.  This is where I post
-things about computer programming and things like that.
+stuff about computer programming and things like that.
 
 <ul class="posts">
   {% for post in site.posts %}
