@@ -51,6 +51,14 @@ table {
   font: 100%;
 }
 
+abbr {
+    border-bottom: .1em dotted;
+}
+
+a abbr {
+    border-bottom: none;
+}
+
 /*****************************************************************************/
 /*
 /* Home
