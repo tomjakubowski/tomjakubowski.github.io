@@ -1,8 +1,7 @@
 ---
 layout: post
 title: TypeScript is not a superset of JavaScript
-tags: typescript pedantry
-
+tags: typescript pedantry javascript
 ---
 
 I've seen this claim made all over the place but it's not true. From [Wikipedia][wiki]:
